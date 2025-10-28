@@ -34,7 +34,7 @@ void OnTriggerExit2D(Collider2D other)
     }
 ```
 ---
-![](https://github.com/Poyamohamadi/HappyGhost/blob/main/image/3.PNG)
+![](https://github.com/Poyamohamadi/HappyGhost/blob/main/image/4.PNG)
 ```csharp
 // Game
 public Transform markUp;
