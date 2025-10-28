@@ -66,7 +66,7 @@ void Update()
     }
 ```
 ---
-![[5.png]]
+![](https://github.com/Poyamohamadi/HappyGhost/blob/main/image/5.PNG)
 ```csharp
 // Menu
 public TextMeshProUGUI tmp;
@@ -84,7 +84,7 @@ public void play()
     }
 ```
 ---
-![[6.png]]
+![](https://github.com/Poyamohamadi/HappyGhost/blob/main/image/6.PNG)
 ```csharp
 // PlayerController
 public Rigidbody2D rb;
@@ -131,7 +131,7 @@ IEnumerator waitEnd()
     }
 ```
 ---
-![[7.png]]
+![](https://github.com/Poyamohamadi/HappyGhost/blob/main/image/7.PNG)
 ```csharp
 // Score
 public TextMeshProUGUI tmp;
