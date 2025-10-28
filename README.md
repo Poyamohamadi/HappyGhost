@@ -1,3 +1,5 @@
+![](https://github.com/Poyamohamadi/HappyGhost/blob/main/demo.jpg)
+
 http://cafebazaar.ir/app/?id=com.MooNightGames.HappyGhost&ref=share
 
 ---
