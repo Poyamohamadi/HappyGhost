@@ -1,4 +1,4 @@
-![[1.png]]
+![](https://github.com/Poyamohamadi/HappyGhost/blob/main/image/1.PNG)
 ```csharp
 // Enemy
 Vector3 movment;
@@ -22,7 +22,7 @@ void Update()
     }
 ```
 ---
-![[2.png]]
+![](https://github.com/Poyamohamadi/HappyGhost/blob/main/image/2.PNG)
 ```csharp
 // Enemy
 void OnTriggerExit2D(Collider2D other)
@@ -34,7 +34,7 @@ void OnTriggerExit2D(Collider2D other)
     }
 ```
 ---
-![[3.png]]
+![](https://github.com/Poyamohamadi/HappyGhost/blob/main/image/3.PNG)
 ```csharp
 // Game
 public Transform markUp;
