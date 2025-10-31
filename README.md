@@ -1,4 +1,4 @@
-![](https://github.com/Poyamohamadi/HappyGhost/blob/main/demo.jpg)
+![](https://github.com/Poyamohamadi/HappyGhost/blob/main/image/demo.jpg)
 
 http://cafebazaar.ir/app/?id=com.MooNightGames.HappyGhost&ref=share
 
